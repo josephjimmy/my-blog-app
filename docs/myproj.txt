@@ -1,0 +1,27 @@
+Blogging App
+name: MyBlog
+a simple blogging website where users can login and post blogs
+
+Requirements (HLR):
+As a User
+=>I should be able to login to the website
+	=>I want users to login using their existing facebook, google, twitter accounts.
+=>I need an interface where I can see all my blogs
+	=>I need the view to show blogs either in grid view or list view
+=>I need a screen to add a new blog
+=>I need a option to delete the blogs which I have posted
+=>I need to update existing blogs.
+=>I need to know how many users have seen my blogs (ma be in the list view)
+=>I need an option to capture comments posted by other users for a particular blog
+=>I need an option to share the blog in social media accounts such as fb and whatsapp
+=>I need to see all other users in the website and their blogs.
+
+
+NFR
+=>Performance
+=>security
+=>account recovery
+=>help content
+=>avaialability
+
+
